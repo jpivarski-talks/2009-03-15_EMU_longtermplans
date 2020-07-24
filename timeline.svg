@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="577.14288"
+   height="352.85721"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="timeline.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3198">
+      <stop
+         style="stop-color:#fbffaf;stop-opacity:1"
+         offset="0"
+         id="stop3200" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop3202" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3198"
+       id="linearGradient3204"
+       x1="285.71429"
+       y1="158.41211"
+       x2="285.71429"
+       y2="102.67951"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="242.06458"
+     inkscape:cy="180.7734"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1434"
+     inkscape:window-height="846"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.369141,-315.98858)">
+    <rect
+       style="opacity:1;fill:url(#linearGradient3204);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000083;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2426"
+       width="577.14288"
+       height="352.85721"
+       x="-10.714286"
+       y="-11.587891"
+       transform="translate(52.083427,327.57647)" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="106.42857"
+       y="338.07648"
+       id="text2383"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2385"
+         x="106.42857"
+         y="338.07648">Mar</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="355.57648"
+         id="tspan2387">Apr</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="373.07648"
+         id="tspan2389">May</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="390.57648"
+         id="tspan2391">Jun</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="408.07648"
+         id="tspan2393">Jul</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="425.57648"
+         id="tspan2395">Aug</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="443.07648"
+         id="tspan2397">Sep</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="460.57648"
+         id="tspan2399">Oct</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="478.07648"
+         id="tspan2401">Nov</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="495.57648"
+         id="tspan2403">Dec</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="513.07648"
+         id="tspan2405">Jan</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="530.57648"
+         id="tspan2407">Feb</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="548.07648"
+         id="tspan2409">Mar</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="565.57648"
+         id="tspan2411">Apr</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="583.07648"
+         id="tspan2413">May</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="600.57648"
+         id="tspan2415">Jun</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="618.07648"
+         id="tspan2417">Jul</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="635.57648"
+         id="tspan2419">Aug</tspan><tspan
+         sodipodi:role="line"
+         x="106.42857"
+         y="653.07648"
+         id="tspan2421">Sep</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000083;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 134.28571,392.36218 L 134.28571,328.07647"
+       id="path2423" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="147.14285"
+       y="352.36218"
+       id="text2425"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2427"
+         x="147.14285"
+         y="352.36218">Putting all the pieces together (prev page)</tspan><tspan
+         sodipodi:role="line"
+         x="147.14285"
+         y="369.86218"
+         id="tspan2461">Provide MC misalignment scenario for physics analyses</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000083;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 147.85714,393.79075 L 147.85714,430.93361"
+       id="path2429" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="162.85715"
+       y="417.36218"
+       id="text2431"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2433"
+         x="162.85715"
+         y="417.36218">Run CRAFT-2009 workflow: provide alignment quickly</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000083;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 134.28571,432.36218 L 134.28571,465.21932"
+       id="path2435" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="147.14285"
+       y="447.2193"
+       id="text2437"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2439"
+         x="147.14285"
+         y="447.2193">Run beam-halo alignment, align rings to tracker through cosmics</tspan><tspan
+         sodipodi:role="line"
+         x="147.14285"
+         y="464.7193"
+         id="tspan2424">Align CSC layers once-and-for-all with beam-halo data</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000083;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 142.14286,473.36218 L 142.14286,551.21933"
+       id="path2463"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="157.85715"
+       y="491.2193"
+       id="text2465"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="157.85715"
+         y="491.2193"
+         id="tspan2469">First collisions: resolve track biases by vetting</tspan><tspan
+         sodipodi:role="line"
+         x="157.85715"
+         y="508.7193"
+         id="tspan2473">collisions alignment against beam-halo/cosmics</tspan><tspan
+         sodipodi:role="line"
+         x="157.85715"
+         y="526.2193"
+         id="tspan2423">Determine optimal alignment procedure configuration</tspan><tspan
+         sodipodi:role="line"
+         x="157.85715"
+         y="543.7193"
+         id="tspan2422">Revise MC misalignment scenario estimate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="159.28572"
+       y="576.07648"
+       id="text2477"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2479"
+         x="159.28572"
+         y="576.07648">More routine operation: regular alignment results</tspan><tspan
+         sodipodi:role="line"
+         x="159.28572"
+         y="593.57648"
+         id="tspan2481">from final configuration</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="160.71429"
+       y="633.07648"
+       id="text2483"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2485"
+         x="160.71429"
+         y="633.07648">Maybe think about high-statistics algorithms</tspan><tspan
+         sodipodi:role="line"
+         x="160.71429"
+         y="650.57648"
+         id="tspan2487">(e.g. Z → μμ mass constraint) for 2011 run</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="86.714287"
+       y="495.21933"
+       id="text2489"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2491"
+         x="86.714287"
+         y="495.21933">2009</tspan><tspan
+         sodipodi:role="line"
+         x="86.714287"
+         y="512.71936"
+         id="tspan2493">2010</tspan></text>
+  </g>
+</svg>
